@@ -1,3 +1,39 @@
+## Live Project - [Crux Notes](https://crux-notes.netlify.app/login)
+
+
+# Credentials
+* username : mukulsaini@test.com
+* password : mukulsn1@
+
+# Environment variables
+REACT_APP_EMAIL 
+REACT_APP_PASSWORD 
+
+REACT_APP_FIREBASE_API_KEY 
+REACT_APP_FIREBASE_AUTH_DOMAIN 
+REACT_APP_FIREBASE_PROJECT_ID 
+REACT_APP_FIREBASE_STORAGE 
+REACT_APP_FIREBASE_SENDER_ID 
+REACT_APP_FIREBASE_APP_ID 
+
+
+
+# Tech Stack 
+ 
+ * Fronted 
+   * HTML5
+   * CSS
+   * ReactJs
+   * Router - React Router v6 
+ 
+ * Backend
+   Firebase 
+   
+* MarkDown Support
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
