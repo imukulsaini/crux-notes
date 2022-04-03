@@ -121,9 +121,9 @@ export function CreateNote({ isAddButtonClick, setFocusTitle }) {
           onClick={() => setMakrdown((mark) => !mark)}
           className="main__action-name"
         >
-          View
+          View Markdown
         </span>
-        <span className="main__action-name">MarkDown Support</span>
+        <span className="main__action-name">MarkDown Preview  Support</span>
         <div className="main__action-contain">
           <button type="submit" className="main__action-name">
             Save
